@@ -1,5 +1,5 @@
 # Bonjour, je suis Dorian,
-###Chef de produit à l'origine, en pleine reconversion pour devenir Data Scientist
+### Chef de produit à l'origine, en pleine reconversion pour devenir Data Scientist
 
 Je prépare la formation **Jedha Fullstack Data Science & AI** 
 et je construis mes compétences en ML, Python et IA.
